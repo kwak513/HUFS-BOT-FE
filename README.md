@@ -1,6 +1,7 @@
 # HUFS챗봇  
 
 한국외국어대학교의 정보를 바탕으로 질문에 답변하는 챗봇입니다.  
+
 ![Image](https://github.com/user-attachments/assets/c157af9e-787e-4071-ab7e-5d0ff9e73345)
 
 
