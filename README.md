@@ -24,10 +24,7 @@ An intelligent chatbot designed to provide accurate answers based on official in
 - Netlify  
 
 ### Backend  
-- Java  
-- Spring Boot  
-- Docker  
-- Hugging Face Spaces  
+- Python
 
 ### AI  
 - **Document Loader**: PDFPlumber  
