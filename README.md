@@ -2,7 +2,8 @@
 
 An intelligent chatbot designed to provide accurate answers based on official information from Hankuk University of Foreign Studies (HUFS).
 
-![Image](https://github.com/user-attachments/assets/c157af9e-787e-4071-ab7e-5d0ff9e73345)
+![488779151-c157af9e-787e-4071-ab7e-5d0ff9e73345](https://github.com/user-attachments/assets/5e47f8ac-3fc6-4834-9bbe-70960ecc2363)
+
 
 
 ## 🎯 Key Features
